@@ -1,0 +1,7 @@
+#Mon Sep 12 19:38:58 EDT 2016
+base.0=/Users/jim.robbins/Development/code/android/MyFriendFlickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b3ef93ebdb3afcb8ace031e4f065755f10a04333
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jim.robbins/Development/code/android/MyFriendFlickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6a17db5e132f3d1bfd2bf406a0a345796073ec0a/classes.dex
+base.1=/Users/jim.robbins/Development/code/android/MyFriendFlickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6a17db5e132f3d1bfd2bf406a0a345796073ec0a
+file.0=/Users/jim.robbins/Development/code/android/MyFriendFlickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b3ef93ebdb3afcb8ace031e4f065755f10a04333/classes.dex

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Friend Flickr</string>
+    <string name="search_hint">Flickr keyword search</string>
+    <string name="search">Search</string>
+    <string name="no_wifi_message">Cannot connect to wi-fi</string>
+    <string name="loading">Accessing Flickr</string>
+    <string name="loading_image_list">Loading Image List</string>
+</resources>

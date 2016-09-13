@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:codechallenge="http://schemas.android.com/apk/res-auto"
+    tools:context="com.smashingboxes.code_challenge_android.MainActivity"
+    >
+
+    <item android:id="@+id/search"
+        android:title="@string/search"
+        android:icon="@android:drawable/ic_menu_search"
+        codechallenge:showAsAction="collapseActionView|ifRoom"
+        codechallenge:actionViewClass="android.support.v7.widget.SearchView" />
+
+</menu>
